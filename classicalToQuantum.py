@@ -1,11 +1,6 @@
 import matplotlib.pyplot as plt
 import numpy as np
 from calculadora import *
-
-# nClick --> es el numero de clicks
-# d --> matriz probabilistica de la dinamica del sistema
-# s --> vector columna del estado inicial del sistema
-
 import cmath
 
 # nClick --> es el numero de clicks
