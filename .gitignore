@@ -1,0 +1,55 @@
+# Archivos generados por Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pyo
+
+# Archivos de configuración y entornos virtuales
+env/
+venv/
+.venv/
+ENV/
+ENV.bak/
+env.bak/
+.venv.bak/
+
+# Archivos de configuración y cachés de herramientas comunes
+*.mypy_cache/
+.mypy_cache/
+.pytest_cache/
+.tox/
+.coverage
+.cache/
+*.coverage
+coverage.xml
+nosetests.xml
+pytest_cache/
+
+# Archivos generados por IDEs y editores
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Archivos de logs
+*.log
+
+# Archivos de base de datos SQLite
+*.sqlite3
+
+# Archivos de distribución y compilación
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Archivos de configuración de despliegue y empaquetado
+*.pot
+*.po
+*.mo
+
+# Archivos de configuración específicos del sistema operativo
+.DS_Store
+Thumbs.db
